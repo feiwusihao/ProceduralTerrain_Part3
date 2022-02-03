@@ -1,7 +1,7 @@
 import * as THREE from '../../lib/112/three.module.js';
 
 import {Sky} from '../../lib/112/Sky.js';
-import {Water} from 'https://cdn.jsdelivr.net/npm/three@0.112.1/examples/jsm/objects/Water.js';
+import {Water} from '../../lib/112/Water.js';
 
 
 export const sky = (function() {

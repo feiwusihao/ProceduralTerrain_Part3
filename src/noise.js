@@ -1,5 +1,5 @@
-import 'https://cdn.jsdelivr.net/npm/simplex-noise@2.4.0/simplex-noise.js';
-import perlin from 'https://cdn.jsdelivr.net/gh/mikechambers/es6-perlin-module/perlin.js';
+import '../../lib/112/simplex-noise.js';
+import perlin from '../../lib/112/perlin.js';
 
 import {math} from './math.js';
 
